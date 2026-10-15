@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect",
+  "description": "Smart College Management System with tailored dashboards for Students, Class Advisors, HODs, and College Admins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
